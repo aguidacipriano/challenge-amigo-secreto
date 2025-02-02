@@ -8,7 +8,7 @@ O usuário pode:
 ✅ Sortear um amigo secreto aleatoriamente.  
 
 ## 🔗 Acesse o Projeto  
-[Clique aqui para testar!](https://aguidacipriano.github.io/challenge-amigo-secreto/) 🚀  
+[Clique aqui para testar!](https://aguidacipriano.github.io/challenge-amigo-secreto/)🚀  
 
 ## 🛠️ Como Funciona?  
 1️⃣ **Adicione um nome** no campo de entrada e clique no botão **"Adicionar"**.  
@@ -21,6 +21,8 @@ O usuário pode:
 🧠 **JavaScript** → Lógica para adicionar, exibir e sortear os amigos.  
 
 ## 📷 Demonstração  
+
+![Amigo Secreto - Google Chrome 2025-02-01 23-49-25](https://github.com/user-attachments/assets/38842af9-851f-4ff5-892d-d7fd90d131fb)
 
 
 
