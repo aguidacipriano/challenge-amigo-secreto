@@ -1,0 +1,10 @@
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de cache do editor (VS Code, JetBrains)
+.vscode/
+.idea/
+
+# Logs de erro (caso algum script gere)
+*.log
